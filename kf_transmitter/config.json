@@ -1,0 +1,7 @@
+config.json{    
+    "microbit-dal":{
+        "bluetooth":{
+            "enabled": 0
+        }
+    }
+}
